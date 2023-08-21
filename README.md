@@ -37,10 +37,6 @@
 - **Course Calendar** → [here](https://docs.google.com/spreadsheets/d/1IbLFi9yzgN-QLRbwkKVhEVki39DPkK0B/edit#gid=405175560)
 - **Course Platform** → [here](https://login.codingdojo.com/login)
 - **Drive Folder with Recordings** → [here](https://drive.google.com/drive/u/3/folders/15IVhbrzr2ZjOE91JcVI9D2qUOgitx8X3)
-- **Stack Pass Requirements:**
-  - Min grade of 8.0 out of 10.0 (Orange Belt or Above)
-  - 90% of Core Assignments Submitted
-  - 80% Assitince to Mandatory Lectures (Tuesday/Thursday)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
