@@ -31,12 +31,12 @@
 
 ## Course Information
 
-- **Dates WebFund Stack:** May 23rd, 2023 to June 18th, 2023
+- **Dates WebFund Stack:** Aug 22rd, 2023 to Sep 15th, 2023
 - **Lectures ("Clases"):** Tuesday/Thursday 7PM-10PM
-- **Tutorials ("Ayudantias"):** Monday/Wednesday/Friday 6PM-10PM
-- **Course Calendar** → [here](https://docs.google.com/spreadsheets/d/1WyrYR9QEIPNapzDEqr6CRu7BLoY2Blck5yRE84LYQQs/edit#gid=0)
+- **Tutorials ("Ayudantias"):** Monday/Wednesday/Friday 6PM-8PM / 9PM-10PM
+- **Course Calendar** → [here](https://docs.google.com/spreadsheets/d/1IbLFi9yzgN-QLRbwkKVhEVki39DPkK0B/edit#gid=405175560)
 - **Course Platform** → [here](https://login.codingdojo.com/login)
-- **Drive Folder with Recordings** → [here](https://drive.google.com/drive/folders/1ujSUumKPw5_XyEP5aJ0RpiTDflhLAgqe?usp=share_link)
+- **Drive Folder with Recordings** → [here](https://drive.google.com/drive/u/3/folders/15IVhbrzr2ZjOE91JcVI9D2qUOgitx8X3)
 - **Stack Pass Requirements:**
   - Min grade of 8.0 out of 10.0 (Orange Belt or Above)
   - 90% of Core Assignments Submitted
@@ -115,26 +115,6 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 
 - **Lectures (Ricardo)**
   - [Lecture 01: Web and HTML](https://us06web.zoom.us/rec/share/QgLLHgpMggtgiBmyyv6Xw7sYpc9swEFU50ddwnklJuerFzkdPTI4zcKHsxTsJavk.WoHV7aJUzQcqw7Al?pwd=tLaSUzvHnNK-EQkqo8FT4Tmnx7K1dj9B)
-  - [Lecture 02: CSS Box Model and Selectors](https://us06web.zoom.us/rec/share/XXNBR77H0UFXr1fevCK3V1kWNW35xww_C0x9C_wwfA_FIFwyyojn4m9Z4sIuZa_E.vLjad-zgRvPB13eZ?pwd=YwAc_P1xFoVDeYG3Sh_sstJs7Tiv3awF)
-  - [Lecture 03: CCS Flex, Layout, Position and Overflow](https://us06web.zoom.us/rec/share/ZOm4JzfPXSZ7mWzv0DSdSzyiwh78VoaeMSWJYGsyZV9VsDPte1d4m6okeYyu14ZT.IkXnIzkh9YVRsX8-?pwd=s7_k5E4rsWfuUmD4Ke4KCBQ_naYBEcQ5)
-  - [Lecture 04: CCS Position, Media Queries and Pseudo-classes & JS Basics](https://us06web.zoom.us/rec/share/t5bOpvGprwg75sGmiUcsIKJ-Dnv7fDOWCBqosEXDAn0Vo0g5K4DUFb_I49kJkswl.vnwSaRwP3Y8cqvIX?pwd=Wmu9-Q9kkpnYy1xTM39K_5sldONTC3W_)
-  - [Lecture 05: JS Basics & DOM Manipulation](https://us06web.zoom.us/rec/share/SZ3SwQQUt06WYVQuBwsxINNpljAhV6MgiKj1np7uWDY2ALgr3-JXLx2Sc6Qn3nef.NmDebto85Vq8tIG2?pwd=4gXiEXE4bXSrC0AKXPvi8TQFBmzA5IPm)
-  - [Lecture 06: DOM Manipulation II](https://us06web.zoom.us/rec/share/gUAiemH1mhFriPgVBk2uB2WvTAJZSX7Pb_6cATsuWF8KKwp2Xjragsg59w-D2zKc.o62WxhLkh36x8gOR?pwd=M8Mzs5cdaXHPu5v0rjoQONI1RMqr45Tk)
-  - [Lecture 07: Bootstrap](https://us06web.zoom.us/rec/share/g58ZepFN15u6JOXyY7eY-GYkNecP9Vwr5ygwVy9_OTl6j5VYrtSkff0JIvgQXGyv.yQf4xc1HIgEzqkZI?pwd=tGiu8pDtlFolqItIH_7HCLEGAJ_nMBNR)
-  - [Lecture 08: JQuery y AJAX](https://us06web.zoom.us/rec/share/AlsHl87rIzrnQxBIQHHp9A9K-xA9TyTH5XZnvbD7PHFlCscF4viq3bPIDUENo8IN.yxPYiZbM0T-fVSbE?pwd=bK7uNNeCOVPXNt8kQTYsprj1QtCQdLxp)
-
-- **Tutorials (xxxxxxx)**
-  - [Tutorial 01: Intro to Git and Termianl](https://us06web.zoom.us/rec/share/NY3VMw82fJ8sJFp3ea1duMkHAtuOGHnBthizW0Et254YZQ3onNzyWNtBc_yUUg.QZUt2FsM5up3jKnE?pwd=Qp6phsdz0UtWDjaSNcwzMytnqhIwksLO)
-  - [Tutorial 02: Git, Terminal & HTML Intro](https://us06web.zoom.us/rec/share/5PP3xBe8f08CLB4C13HXHtP66xpju_7NJcPcrY-c8Vh_lU_IIApEBgJOgApcyj2E.z3pKB9evr_3rV2Qa?pwd=r7uyIBSEylooKR5irL_waSlWfUZo8TPn)
-  - [Tutorial 03: Git, HTML & CSS Intro](https://us06web.zoom.us/rec/share/VdwABdOZo7bcheIcXkxKaRSNrFdIMyr9TkaNpLc_oLfpQy_007enUr5iIFUihV-G.X8ESEa_-4F3U6oE5?startTime=1685401632000&pwd=PKSd0C05QJQFjcQwWjyev9LbpfmP2xRj)
-  - [Tutorial 04: Git, CSS Display Block, inline, inline-block e intro a flex](https://us06web.zoom.us/rec/share/-kc0hX5mPLC9n34u9CoTZX7VBBRGxT7CEWDxqYIZ9LwfL26s7X9KGTcbHtU9LaE_.7j_SlV4iP0COp58b?pwd=1FSRw7PPDno79Y-kp4RetyAsnvO94fRH)
-  - [Tutorial 05: Flex y Media queries](https://us06web.zoom.us/rec/share/dZFQFf08B68p7OjOUMpaE3Xtu2zVsvXOAN0--mzlTfyfR29tcdWF1aqFGTQVz-g.O3ckobl8vbjTf5Ar?pwd=ToVkUchbEGKLEhRWv-F26pGqjPHppUDt)
-  - [Tutorial 06: Examen Pt 1](https://us06web.zoom.us/rec/share/4oeaDiIANIn_80lsm3o8c42hzX-zSkix2CH8fdV-ZXsoSDjs1Y7Tw-9f6ZfpAomm.Ln-Rj1V_JsxNcXLP?pwd=bbWgLkGbrVc9zqMYYlsKpX1tMC2yrHnu)
-  - [Tutorial 07: Examen Pt 2](https://us06web.zoom.us/rec/share/WicIbgiuciGAlelYtSp_YQEdMQr6xpmXTw45NVFx5gDFeggUF_biSUo5fGI4v30T.ihI7_2bCWsie0WdQ?pwd=ymr5YkadOwlcLaV2tuM7i6GNLFB_XAMR)
-  - [Tutorial 08: Examen Pt 3](https://us06web.zoom.us/rec/share/rv7Ei6ZYOYO2jND_lXbOCfzM1FpgbAgqiXOUjZZOEtuPqSgfe9_m1ttLzTE3q30.1ZgnV4VlParh9kPb?pwd=fL4JOk3kh3iTJpYgKi-abJPlVSviED-_)
-  - [Tutorial 09: To-Do list](https://us06web.zoom.us/rec/share/YvPSwQJ2dUhh5HJBJXEdoeAobwxQM-Jl_aSi5ZAH-BH5XZCTX30yCLWV9osp8zth.w_FOKYL5Y62UmJ8P?pwd=VzSPPsdyv-nTd5wNjnomqzDpPRRX4u54)
-  - [Tutorial 10: Bootstrap](https://us06web.zoom.us/rec/share/Ixo8sqDW5P0r8kZPvsto_DRxxtnsOWMOd8Rjsw4Xxqg_dujUEjjz9army2Xv77QU.rnJDYuQuCoHZb87r?pwd=n0R8JnrnOSGDcGlV8WDn2XAvn-y9PTiD)
-  - [Tutorial 11: JQuery y AJAX](https://us06web.zoom.us/rec/share/A0RajhruDV_Tv3SvhnBs5e8XnBoas1ccWIJBPKFRkOFlomQfJHeR08Komw45Kp4.1jIQ4NsYQX1s7awl?pwd=Likg-wZDSPiqHb5xlEcO6NIwmgX_YaIw)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
@@ -162,7 +142,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 During the course, useful resources will be listed below for guiding students in their learning process
 
 - **Blogs and Websites**
-  - [Medium](https://medium.com/) (Recommended 🚀 - USD 5,00 per month)
+  - [Medium](https://medium.com/)
   - [Dev.to](https://dev.to/)
   - [W3Schools](https://www.w3schools.com/)
   - [CSS Tricks](https://css-tricks.com/)
