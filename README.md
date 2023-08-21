@@ -16,7 +16,7 @@
 ## Table of Contents
 
 - [Course Information](#course-information)
-- [Taught Technologies](#taught-technologies)
+- [Stack Technologies](#taught-technologies)
 - [Communication Channels](#communication-channels)
 - [Class Recordings](#class-recordings)
 - [Instruction Staff](#instruction-staff)
@@ -97,7 +97,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 </div>
 
 <div style="display: flex; align-items: center; ">
-  <a href="https://calendly.com/instructores13/code-review-agendable-fundamentos-de-la-web?month=2023-05">
+  <a href="https://calendly.com/instructores9/code-review-agendable-fundamentos-de-la-web">
     <img src="https://www.copilot.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fl41zuz9np7js%2F4Y2zP2a3WzSMi8ACUIrVVS%2Faa010a2c1bcc212ce292656ea2b5b647%2Fcal.png&w=640&q=75" alt="Calendly Badge" height="16" style = "background-color:white; padding:2px;border-radius: 3px;">
   </a>
   <p style="margin-left: 5px;">Scheduled Code Reviews ("Code Reviews Agendables")</p>
@@ -126,8 +126,8 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 
 ## Instruction Staff
 
-- _Lead Instructor:_ Ricardo Vasquez [rvasquez@codingdojo.com](mailto:rvasquez@codingdojo.com)
-- _Support Instructor:_ xxxxxxxx [xxxxxxxx@codingdojo.cl](mailto:xxxxxxx@codingdojo.cl)
+- _Lead Instructor:_ Ricardo Vasquez [rvasquez@codingdojo.cl](mailto:rvasquez@codingdojo.cl)
+- _Support Instructor:_ Nestor Ribero [nribero@codingdojo.cl](mailto:nribero@codingdojo.cl)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
