@@ -1,0 +1,21 @@
+.primero{
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.child{
+    color: cyan;
+}
+
+.segundo{
+    background-color: purple;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.tercero{
+    background-color: cyan;
+}

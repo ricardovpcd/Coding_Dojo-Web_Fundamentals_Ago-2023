@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+
+.titulo{
+    color: purple;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: italic;
+    font-family: sans-serif monospace;
+}

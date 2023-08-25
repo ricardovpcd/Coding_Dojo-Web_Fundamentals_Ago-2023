@@ -1,0 +1,50 @@
+body {
+    color: black;
+    margin: 0px;
+}
+
+p {
+    color: red;
+}
+
+a {
+    color: purple;
+    font-size: 60px;
+}
+
+.especial{
+    color: pink;
+    font-size: 20px;
+}
+
+#usuario{
+    color: red;
+}
+
+div p{
+   color: green;
+}
+
+div section p{
+
+}
+
+div > p{
+    color:chocolate;
+}
+
+.multiple, .single, .various, #minombre, label{
+    font-size: 30px;
+}
+
+.formulario > p{
+    color:orange;
+}
+
+#tarjeta p{
+
+}
+
+.formulario .myclass{
+
+}
