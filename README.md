@@ -18,7 +18,6 @@
 - [Course Information](#course-information)
 - [Stack Technologies](#taught-technologies)
 - [Communication Channels](#communication-channels)
-- [Class Recordings](#class-recordings)
 - [Instruction Staff](#instruction-staff)
 - [Resources](#resources)
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
@@ -98,19 +97,6 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   </a>
   <p style="margin-left: 5px;">Scheduled Code Reviews ("Code Reviews Agendables")</p>
 </div>
-
-<p align="right">(<a href="#back-to-top">back to top</a>)</p>
-
----
-
-<!-- *********************************************************************** -->
-<!-- IV) Class Recordings -->
-<!-- *********************************************************************** -->
-
-## Class Recordings
-
-- **Lectures (Ricardo)**
-  - [Lecture 01: Web and HTML](https://us06web.zoom.us/rec/share/QgLLHgpMggtgiBmyyv6Xw7sYpc9swEFU50ddwnklJuerFzkdPTI4zcKHsxTsJavk.WoHV7aJUzQcqw7Al?pwd=tLaSUzvHnNK-EQkqo8FT4Tmnx7K1dj9B)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
