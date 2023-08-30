@@ -1,0 +1,39 @@
+#username{
+    display: block;
+}
+
+#password{
+    display: block;
+}
+
+.textos{
+    display: inline;
+}
+
+#container{
+    background-color: grey;
+}
+
+#child1{
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;
+}
+
+#child2{
+    width: 100px;
+    height: 250px;
+    background-color: red;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#child3{
+    width: 100px;
+    height: 150px;
+    background-color: green;
+    display: inline-block;
+    vertical-align: bottom;
+}
