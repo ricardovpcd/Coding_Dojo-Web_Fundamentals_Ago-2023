@@ -82,7 +82,7 @@ dinero = 110;
 console.log(dinero);
 
 var dinero2 = 200;
-dinero2 += 10;
+dinero2 += 10; // dinero2 = dinero2 + 10;
 console.log(dinero2);
 
 var dinero3 = 300;

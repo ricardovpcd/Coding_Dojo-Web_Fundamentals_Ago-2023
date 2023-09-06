@@ -30,9 +30,7 @@ convertidor(4);
 
 /* RETURN */
 function multiplicar(numero1, numero2){
-
     numero1 /= 2;
-
     return numero1 * numero2;
 }
 
