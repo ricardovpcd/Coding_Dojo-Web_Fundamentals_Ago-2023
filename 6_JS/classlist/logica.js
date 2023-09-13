@@ -1,11 +1,5 @@
-var inputNombre = document.querySelector("#nombre");
+var inputUserName = document.querySelector("#username");
 
-function cambiarEstilo1(){
-    inputNombre.classList.remove("estilo2");
-    inputNombre.classList.add("estilo1");
-}
-
-function cambiarEstilo2(){
-    inputNombre.classList.remove("estilo1");
-    inputNombre.classList.add("estilo2");
-}
+var inputUserName2 = document.getElementById("username");
+var btnSign = document.getElementsByClassName("btnSign");
+var btn = document.getElementsByTagName("input");
